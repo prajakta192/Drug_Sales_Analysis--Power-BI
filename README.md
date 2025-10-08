@@ -8,3 +8,29 @@ A data-driven dashboard built using Power BI to evaluate key metrics across Reve
   + Provide business recommendations for optimizing operations and increasing revenue.
 
 ## 📌 Key Metrics Tracked
+
+  + 📦 Total COGS : $13M
+  + 💰 Quantity Sold : 269K
+  + 🧾 Total Revenue: $71M
+  + 💰 Total Profit: $58M
+  + 💰 % Profit Margin: 81.97%
+  + 📈 Current vs Last Month(Total Revenue)
+  + 📈 Current vs Last Month(Total Profit)
+  + 📈 Current vs Last Month(Total COGS)
+  + 📈 Current vs Last Month(Quantity Sold)
+
+## 🛠 Tools & Technologies
+  + Power BI Desktop
+  + Data Model, DAX & Power Query
+  + Excel as data source
+  + Power BI Service
+  + GitHub for documentation and versioning
+
+## 🧠 Learnings
+  + Designed a KPI-rich Power BI dashboard with real Drug Sales data
+  + Practiced analytical storytelling using visualizations
+  + Applied DAX time intelligence for month-over-month and year-over-year growth
+  + Improved dashboard usability with tooltips and filters
+
+
+
